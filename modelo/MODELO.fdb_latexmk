@@ -1,10 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1511726748 "MODELO.xdv" "MODELO.pdf" "MODELO" 1512731495
-  "MODELO.xdv" 1511726747 360184 be1855d931fc6b0189ae25bda8afbec0 "xelatex"
+["xdvipdfmx"] 1512732493 "MODELO.xdv" "MODELO.pdf" "MODELO" 1512732495
+  "MODELO.xdv" 1512732493 360184 dd4ad64212005f8d34c807b3b2a75bcc "xelatex"
   (generated)
   "MODELO.pdf"
-["xelatex"] 1511726740 "MODELO.tex" "MODELO.xdv" "MODELO" 1512731495
-  "/home/editorial/texmf/tex/penalidades.sty" 1492710435 5285 18e80aeaf88f978c2e3015ab1691a5e2 ""
+["xelatex"] 1512732479 "MODELO.tex" "MODELO.xdv" "MODELO" 1512732495
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1510396394 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1510396407 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texmf-dist/fonts/tfm/public/ccicons/ccicons.tfm" 1510397538 212 9ba32d0dbe59209199f2056a1c7d2880 ""
@@ -194,16 +193,17 @@
   "0034-8910-rsp-47-04-0791-g1.jpg" 1510834461 1576 2e1b08f95d779721b85025d84d58207c ""
   "0034-8910-rsp-47-04-0791-gf01.jpg" 1510834461 512440 328578a449b8ebe384eb0e282be0f00a ""
   "0034-8910-rsp-48-3-0451-ee01.jpg" 1510834461 33879 2050c823954f634d2c3527eeb58d3943 ""
-  "MODELO.aux" 1511726747 2537 fb4720b1ebc580ae6178c4ef96f01e9d ""
-  "MODELO.out" 1511726747 991 b784d9f9dfa6eb9f42d5e85505c2e905 ""
-  "MODELO.tex" 1511726579 38753 3b613733477e195b2a0827c6df4cfe48 ""
-  "MODELO.toc" 1511726747 515 7c1b6084e59cf960ab51d358a8039fbc ""
+  "MODELO.aux" 1512732493 2537 fb4720b1ebc580ae6178c4ef96f01e9d ""
+  "MODELO.out" 1512732493 991 b784d9f9dfa6eb9f42d5e85505c2e905 ""
+  "MODELO.tex" 1512732229 38783 6081bb47cc8629f2276f16cf33768076 ""
+  "MODELO.toc" 1512732493 515 7c1b6084e59cf960ab51d358a8039fbc ""
   "logo.png" 1510834461 12988 1c9cbe730563243214f13e22d247df0c ""
-  "metadata.tex" 1511726579 1914 e05a2c8cae51573ba6e4ed3e2cf5921a ""
+  "metadata.tex" 1512732229 1914 e05a2c8cae51573ba6e4ed3e2cf5921a ""
+  "penalidades.sty" 1512732112 5285 18e80aeaf88f978c2e3015ab1691a5e2 ""
   "scielo.sty" 1510840646 3793 e0e5cfcb6b0e009761835a7a8f8967bc ""
   (generated)
-  "MODELO.toc"
   "MODELO.xdv"
+  "MODELO.toc"
   "MODELO.out"
   "MODELO.aux"
   "MODELO.log"

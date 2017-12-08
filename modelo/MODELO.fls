@@ -164,8 +164,8 @@ INPUT /usr/share/texmf-dist/tex/generic/oberdiek/stringenc.sty
 INPUT /usr/share/texmf-dist/tex/generic/oberdiek/stringenc.sty
 INPUT /usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-INPUT /home/editorial/texmf/tex/penalidades.sty
-INPUT /home/editorial/texmf/tex/penalidades.sty
+INPUT penalidades.sty
+INPUT penalidades.sty
 INPUT /usr/share/texmf-dist/tex/latex/textcase/textcase.sty
 INPUT /usr/share/texmf-dist/tex/latex/textcase/textcase.sty
 INPUT /usr/share/texmf-dist/tex/latex/caption/caption.sty

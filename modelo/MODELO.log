@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.11.19)  26 NOV 2017 18:05
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.11.19)  8 DEC 2017 09:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -835,8 +835,7 @@ tly
 )
 \Hy@SectionHShift=\skip61
 )
-(/home/editorial/texmf/tex/penalidades.sty)
-(/usr/share/texmf-dist/tex/latex/textcase/textcase.sty
+(./penalidades.sty) (/usr/share/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 )
 (/usr/share/texmf-dist/tex/latex/caption/caption.sty
@@ -1895,8 +1894,8 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1151.
 ### bottom level
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
- 37775 strings out of 493010
- 709260 string characters out of 6140133
+ 37774 strings out of 493010
+ 709184 string characters out of 6140133
  961180 words of memory out of 5000000
  41152 multiletter control sequences out of 15000+600000
  537790 words of font info for 82 fonts, out of 8000000 for 9000
