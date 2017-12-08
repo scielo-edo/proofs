@@ -1,12 +1,12 @@
 TAG=MODELO
 
 all:
-	jats2tex $(TAG).xml -t template2.yaml
+	jats2tex $(TAG).xml -t template.yaml
 	sh replace.sh
 	cat $(TAG).tex
 
 2:
-	jats2tex $(TAG).xml -t template2.yaml
+	jats2tex $(TAG).xml -t template.yaml
 	cat $(TAG).tex
 
 debug:
