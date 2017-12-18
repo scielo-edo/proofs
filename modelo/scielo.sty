@@ -83,7 +83,10 @@
     \draw (2,20) node {\includegraphics[width=4cm]{logo.png}};
 	\draw (3cm,9cm) node[text width = 5cm] {\baselineskip=.7\baselineskip
 		   \footnotesize\begin{minipage}{5cm}
-		   \hyphenpenalty=10000\authornotes\\ \ifdef{\cclicense}{\cclicense}{}\end{minipage}};
+		   \hyphenpenalty=10000\authornotes\\ \ifdef{\cclicense}{\cclicense\\}{}
+       \ifdef{\datereceived}{Recebido: \datereceived\\}{}
+       \ifdef{\dateaccepted}{Aceito: \dateaccepted\\}{}
+       \end{minipage}};
 	\end{tikzpicture}
 \sf \ifdef{\articledoi}{\articledoi}{}}
 \fancyfoot[R]{\thepage/\pageref{LastPage}}
