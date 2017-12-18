@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1512732657 "MODELO.xdv" "MODELO.pdf" "MODELO" 1512732657
-  "MODELO.xdv" 1512732656 360184 c67d1eefc20b0f99e8df08ff19d5ae6b "xelatex"
+["xdvipdfmx"] 1513640999 "MODELO.xdv" "MODELO.pdf" "MODELO" 1513641000
+  "MODELO.xdv" 1513640998 359488 28aca3647a3e0084072db2d19fda763f "xelatex"
   (generated)
   "MODELO.pdf"
-["xelatex"] 1512732649 "MODELO.tex" "MODELO.xdv" "MODELO" 1512732657
+["xelatex"] 1513640989 "MODELO.tex" "MODELO.xdv" "MODELO" 1513641000
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1510396394 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1510396407 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texmf-dist/fonts/tfm/public/ccicons/ccicons.tfm" 1510397538 212 9ba32d0dbe59209199f2056a1c7d2880 ""
@@ -193,17 +193,17 @@
   "0034-8910-rsp-47-04-0791-g1.jpg" 1510834461 1576 2e1b08f95d779721b85025d84d58207c ""
   "0034-8910-rsp-47-04-0791-gf01.jpg" 1510834461 512440 328578a449b8ebe384eb0e282be0f00a ""
   "0034-8910-rsp-48-3-0451-ee01.jpg" 1510834461 33879 2050c823954f634d2c3527eeb58d3943 ""
-  "MODELO.aux" 1512732656 2537 fb4720b1ebc580ae6178c4ef96f01e9d ""
-  "MODELO.out" 1512732656 991 b784d9f9dfa6eb9f42d5e85505c2e905 ""
-  "MODELO.tex" 1512732229 38783 6081bb47cc8629f2276f16cf33768076 ""
-  "MODELO.toc" 1512732656 515 7c1b6084e59cf960ab51d358a8039fbc ""
+  "MODELO.aux" 1513640998 2537 fb4720b1ebc580ae6178c4ef96f01e9d ""
+  "MODELO.out" 1513640998 991 b784d9f9dfa6eb9f42d5e85505c2e905 ""
+  "MODELO.tex" 1513640923 38769 42088cab1bb7e09f1075e27fff6338f8 ""
+  "MODELO.toc" 1513640998 515 7c1b6084e59cf960ab51d358a8039fbc ""
   "logo.png" 1510834461 12988 1c9cbe730563243214f13e22d247df0c ""
-  "metadata.tex" 1512732229 1914 e05a2c8cae51573ba6e4ed3e2cf5921a ""
+  "metadata.tex" 1513640923 1914 e05a2c8cae51573ba6e4ed3e2cf5921a ""
   "penalidades.sty" 1512732551 5285 18e80aeaf88f978c2e3015ab1691a5e2 ""
-  "scielo.sty" 1510840646 3793 e0e5cfcb6b0e009761835a7a8f8967bc ""
+  "scielo.sty" 1513640633 3793 e0e5cfcb6b0e009761835a7a8f8967bc ""
   (generated)
-  "MODELO.out"
-  "MODELO.xdv"
-  "MODELO.toc"
-  "MODELO.log"
   "MODELO.aux"
+  "MODELO.xdv"
+  "MODELO.out"
+  "MODELO.log"
+  "MODELO.toc"

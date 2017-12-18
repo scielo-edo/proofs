@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.11.19)  8 DEC 2017 09:30
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.11.19)  18 DEC 2017 21:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1894,12 +1894,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1151.
 ### bottom level
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
- 37774 strings out of 493010
- 709184 string characters out of 6140133
+ 37776 strings out of 493010
+ 709208 string characters out of 6140133
  961180 words of memory out of 5000000
- 41152 multiletter control sequences out of 15000+600000
+ 41154 multiletter control sequences out of 15000+600000
  537790 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,18n,98p,10374b,1337s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on MODELO.xdv (11 pages, 360184 bytes).
+Output written on MODELO.xdv (11 pages, 359488 bytes).

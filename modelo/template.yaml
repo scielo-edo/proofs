@@ -248,6 +248,20 @@ copyright-statement:
 
             \newcommand{\cclicense}{@@children $^{\tiny{\textregistered}}$ }
 
+
+
+history:
+   head :     |
+   
+      @@lua(return '\\newcommand{\\datereceived}{' .. find '//date[@date-type="received"]/day' 
+            .. '-' .. find '//date[@date-type="received"]/month'
+            .. '-' .. find '//date[@date-type="received"]/year'
+            .. '}')@@
+      @@lua(return '\\newcommand{\\dateaccepted}{' .. find '//date[@date-type="accepted"]/day' 
+            .. '-' .. find '//date[@date-type="received"]/month'
+            .. '-' .. find '//date[@date-type="received"]/year'
+            .. '}')@@
+
 pub-date: 
    head: |
 
