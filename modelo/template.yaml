@@ -1,6 +1,6 @@
 article[@xml:lang="pt"]:
    head: |
-      % template.yaml 2.1.3 (completo para a apresentação do MODELO #1)
+      % template.yaml 2.1.3.3 (comentários da Francine)
       \documentclass{article}
       \usepackage{scielo}
 
@@ -498,8 +498,7 @@ trans-abstract[@xml:lang="es"]: |
       \end{otherlanguage}
       \endgroup
 
-sup: |
-      \textsuperscript{@@children}
+sup: "\\textsuperscript{@@children}"
 
 trans-abstract[@xml:lang="en"]: |
 
@@ -654,6 +653,11 @@ b: |
 
 
 caption/title: ""
+
+
+app-group: |
+  @@lua(return "\\section{" .. find('//app/label') .. "}".. find('//p'))@@
+
 
 table-wrap: |
 
