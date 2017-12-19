@@ -411,7 +411,9 @@ aff:
       \affil[@@lua(
          return find('//label')
       )@@]{@@lua(
-         return find('//institution[@content-type="orgname"]')
+         return find('//institution[@content-type="orgdiv2"]') 
+         .. ', ' .. find('//institution[@content-type="orgdiv1"]') 
+         .. ', ' .. find('//institution[@content-type="orgname"]')
       )@@}
 
 break: "\n"
@@ -628,12 +630,10 @@ trans-abstract[@xml:lang="fr"]: |
       \endgroup
 
 
-
-
 /fig: |
    \begin{figure}
    \includegraphics[width=\textwidth]{@@lua(return find "//graphic")@@}
-   \caption{@@lua(return find "/fig/title")@@}\label{fig:@@lua(return attr('id'))@@}
+   \caption{@@lua(return find "//caption/title")@@}\label{fig:@@lua(return attr('id'))@@}
    \end{figure}
 
 disp-formula: |
