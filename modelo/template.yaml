@@ -388,7 +388,8 @@ fn-group//fn:
     head: |
        
        %%% Nota @@lua(return attr 'id')@@ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-       \newcounter{@@lua(return attr 'id')@@}
+       \newcounter{@@lua(
+            if attr('id') == '' then return "Title" end return attr 'id')@@}
        \expandafter\newcommand\csname @@lua(return attr 'id')@@\endcsname{@@lua(return find ('//p'))@@}
 
 name:   "@@lua(
