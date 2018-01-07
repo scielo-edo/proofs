@@ -665,7 +665,7 @@ caption/title: ""
 
 
 app-group: |
-  @@lua(return "\\section{" .. find('//app/label') .. "}".. find('//p'))@@
+  @@lua(return "\\section*{" .. find('//app/label') .. "}".. find('//p'))@@
 
 
 table-wrap: |

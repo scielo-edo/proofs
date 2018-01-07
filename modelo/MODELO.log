@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.11.19)  7 JAN 2018 19:32
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.11.19)  7 JAN 2018 19:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1681,7 +1681,7 @@ Overfull \hbox (102.20148pt too wide) has occurred while \output is active
 File: logo.png Graphic file (type bmp)
 <logo.png>
 LaTeX Font Info:    Font shape `U/ccicons/m/n' will be
-(Font)              scaled to size 8.0pt on input line 153.
+(Font)              scaled to size 8.0pt on input line 171.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/LinuxLibertineO(0)/m/n/8 Correspondência | Correspondence :
@@ -1745,32 +1745,32 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 
 LaTeX Font Warning: Font shape `TU/lmss/m/sc' in size <10> not available
-(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 153.
+(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 171.
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 171.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 171.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 171.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 171.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 171.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 171.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 171.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 171.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 171.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 171.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 171.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 171.
 [1
 
 ]
@@ -1786,12 +1786,9 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 4.98067pt on input line 184.
 File: 0034-8910-rsp-48-3-0451-ee01.jpg Graphic file (type bmp)
 <0034-8910-rsp-48-3-0451-ee01.jpg>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 File: logo.png Graphic file (type bmp)
 <logo.png>
+
 
 Package Fancyhdr Warning: \headheight is too small (27.023pt): 
  Make it at least 34.89754pt.
@@ -1810,9 +1807,9 @@ Package babel Info: Redefining portuges shorthand "|
 File: logo.png Graphic file (type bmp)
 <logo.png>
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 294.
+(babel)             in language  on input line 295.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 294.
+(babel)             in language  on input line 295.
  [3]
 File: logo.png Graphic file (type bmp)
 <logo.png>
@@ -1866,8 +1863,6 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 962.
  [8]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 991.
 File: logo.png Graphic file (type bmp)
 <logo.png>
 Package babel Info: Redefining portuges shorthand "|
@@ -1940,10 +1935,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1147.
 Here is how much of TeX's memory you used:
  37832 strings out of 493010
  709805 string characters out of 6140133
- 962256 words of memory out of 5000000
+ 962257 words of memory out of 5000000
  41207 multiletter control sequences out of 15000+600000
  538343 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,17n,98p,10374b,1333s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,17n,98p,10374b,1339s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on MODELO.xdv (11 pages, 360648 bytes).
+Output written on MODELO.xdv (11 pages, 360352 bytes).

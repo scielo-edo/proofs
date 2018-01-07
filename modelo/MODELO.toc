@@ -6,4 +6,3 @@
 \contentsline {section}{\numberline {2}Qualidade no \textsc {sus} e segurança do paciente - teste de subseção}{3}{section.2}
 \contentsline {section}{\numberline {3}Qualidade no \textsc {sus} e segurança do paciente}{3}{section.3}
 \contentsline {section}{\numberline {4}Sistema de notificações de incidentes}{6}{section.4}
-\contentsline {section}{\numberline {5}\textsc {destaques}}{9}{section.5}
