@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.11.19)  18 DEC 2017 23:30
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.11.19)  6 JAN 2018 10:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1374,7 +1374,7 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Linux Libertine
 . O/BI/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
 .................................................
-LaTeX Info: Redefining \rmfamily on input line 95.
+LaTeX Info: Redefining \rmfamily on input line 96.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1402,13 +1402,13 @@ LaTeX Info: Redefining \rmfamily on input line 95.
 .................................................
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(1)/m/n on input line
- 95.
+ 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(1)/m/it on input li
-ne 95.
+ne 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(1)/bx/n on input li
-ne 95.
+ne 96.
 ) (./MODELO.aux
 LaTeX Info: Redefining \. on input line 32.
 LaTeX Info: Redefining \% on input line 32.
@@ -1698,7 +1698,28 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
+\TU/LinuxLibertineO(0)/m/n/8 The authors wish to thank the School
+ []
 
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\TU/LinuxLibertineO(0)/m/n/8 of Nursing at the University of São
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\TU/LinuxLibertineO(0)/m/n/8 Paulo and \TU/LinuxLibertineO(0)/m/sc/8 fapesp \TU
+/LinuxLibertineO(0)/m/n/8 that financed and
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\TU/LinuxLibertineO(0)/m/n/8 subsididized this study under process
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\TU/LinuxLibertineO(0)/m/n/8 number 2012/02700-7, with dispatch
  []
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
@@ -1903,10 +1924,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1147.
 Here is how much of TeX's memory you used:
  37776 strings out of 493010
  709208 string characters out of 6140133
- 961816 words of memory out of 5000000
+ 961829 words of memory out of 5000000
  41154 multiletter control sequences out of 15000+600000
  537790 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,17n,98p,10374b,1337s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on MODELO.xdv (11 pages, 363168 bytes).
+Output written on MODELO.xdv (11 pages, 365144 bytes).

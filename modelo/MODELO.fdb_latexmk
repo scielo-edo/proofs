@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1513647017 "MODELO.xdv" "MODELO.pdf" "MODELO" 1513647022
-  "MODELO.xdv" 1513647016 363168 71fdc46699265bed7c5c13f18baf7b65 "xelatex"
+["xdvipdfmx"] 1515242426 "MODELO.xdv" "MODELO.pdf" "MODELO" 1515242426
+  "MODELO.xdv" 1515242425 365144 3581166a38dd07f91f255a88305f55c0 "xelatex"
   (generated)
   "MODELO.pdf"
-["xelatex"] 1513647006 "MODELO.tex" "MODELO.xdv" "MODELO" 1513647022
+["xelatex"] 1515242417 "MODELO.tex" "MODELO.xdv" "MODELO" 1515242426
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1510396394 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1510396407 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texmf-dist/fonts/tfm/public/ccicons/ccicons.tfm" 1510397538 212 9ba32d0dbe59209199f2056a1c7d2880 ""
@@ -193,17 +193,17 @@
   "0034-8910-rsp-47-04-0791-g1.jpg" 1510834461 1576 2e1b08f95d779721b85025d84d58207c ""
   "0034-8910-rsp-47-04-0791-gf01.jpg" 1510834461 512440 328578a449b8ebe384eb0e282be0f00a ""
   "0034-8910-rsp-48-3-0451-ee01.jpg" 1510834461 33879 2050c823954f634d2c3527eeb58d3943 ""
-  "MODELO.aux" 1513647016 2800 10faa0b988ad19a070c86436df0f3b1f ""
-  "MODELO.out" 1513647016 1079 381e901279ba547a0cf1acc8ae75d841 ""
-  "MODELO.tex" 1513646641 39054 4985f9367bd57afe9ef9f92731b8e8cf ""
-  "MODELO.toc" 1513647016 589 a32eb585de3b883c2bde47e997fcd89c ""
+  "MODELO.aux" 1515242425 2800 10faa0b988ad19a070c86436df0f3b1f ""
+  "MODELO.out" 1515242425 1079 381e901279ba547a0cf1acc8ae75d841 ""
+  "MODELO.tex" 1513998721 39070 ee5b7e0c23da5675302409f33b6c8957 ""
+  "MODELO.toc" 1515242425 589 a32eb585de3b883c2bde47e997fcd89c ""
   "logo.png" 1510834461 12988 1c9cbe730563243214f13e22d247df0c ""
   "metadata.tex" 1513646641 1914 e05a2c8cae51573ba6e4ed3e2cf5921a ""
   "penalidades.sty" 1512732551 5285 18e80aeaf88f978c2e3015ab1691a5e2 ""
-  "scielo.sty" 1513641216 3918 4885d466fdd7bf73f00763544268a951 ""
+  "scielo.sty" 1515242412 3957 ac10f4f57a8283a9431286f6c7319802 ""
   (generated)
-  "MODELO.xdv"
   "MODELO.toc"
   "MODELO.aux"
   "MODELO.log"
+  "MODELO.xdv"
   "MODELO.out"

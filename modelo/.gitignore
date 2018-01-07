@@ -1,6 +1,8 @@
 *~
 *.zip
 *.docx
+*.toc
+*.aux
 *.swp
 *.log
 *.aux
