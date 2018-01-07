@@ -115,3 +115,9 @@
         \ifdef{\transsubtitle}{\transsubtitlestyle{\transsubtitle}}{}
         }
 
+% footnotetest
+  \newcommand{\footnotetest}[1]{%
+  \ifthenelse{\value{#1}=0}%
+    {\footnote{\csname #1\endcsname \label{ftn:#1}}}%
+    {\footnote{Ver nota \ref{ftn:#1} (p.\pageref{ftn:#1}).}}
+  \stepcounter{#1}}

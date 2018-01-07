@@ -378,8 +378,7 @@ xref[@ref-type="fig"]: |
       @@children~\ref{fig:@@lua(return attr('rid'))@@}
 
 xref[@ref-type="fn"]:   |
-      @@lua(return "\\footnote{\\" .. attr 'rid' .."}")@@   
-
+      @@lua(return "\\footnotetest{" .. attr 'rid' .. "}")@@   
 
 xref[@ref-type="bibr"]:   |
       \textsuperscript{[}@@children\textsuperscript{]}   

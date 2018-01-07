@@ -256,13 +256,11 @@ Esses eventos são atribuídos à falta de políticas governamentais
 \ifthenelse{\value{fn2}=0}%
 		{\footnote{\fn2 \label{ftn:fn2}}}%
 		{\footnote{Ver nota \ref{ftn:fn2} (p.\pageref{ftn:fn2})}}
-			\stepcounter{fn2}
-\textsuperscript{,}
+			\stepcounter{fn2}\textsuperscript{,}
 \ifthenelse{\value{fn3}=0}%
 		{\footnote{\fn3 \label{ftn:fn3}}}%
 		{\footnote{Ver nota \ref{ftn:fn3} (p.\pageref{ftn:fn3})}}
-			\stepcounter{fn3}
-\textsuperscript{,}\ifthenelse{\value{fn4}=0}%
+			\stepcounter{fn3}\textsuperscript{,}\ifthenelse{\value{fn4}=0}%
 		{\footnote{\fn4 \label{ftn:fn4}}}%
 		{\footnote{Ver nota \ref{ftn:fn4} (p.\pageref{ftn:fn4})}}
 			\stepcounter{fn4}
@@ -706,15 +704,10 @@ All
 \end{xtabular}
 \begin{tablenotes}
 \item
-\textsc{ncd}: non-communicable diseases
-\textsuperscript{a} Percentage adjusted by sample weights and by
-post-stratification according to age and sex.
-\textsuperscript{b} Pearson’s Chi-squared test.
-\textsuperscript{c} In completed grades in school.
-\textsuperscript{d} According to the 2013 Brazil Economic Classification
+\textsc{ncd}: non-communicable diseases\textsuperscript{a} Percentage adjusted by sample weights and by
+post-stratification according to age and sex.\textsuperscript{b} Pearson’s Chi-squared test.\textsuperscript{c} In completed grades in school.\textsuperscript{d} According to the 2013 Brazil Economic Classification
 Criterion (\textsc{cceb} 2013) of the Brazilian Association of Research Companies (\textsc{abep}).
-Available from: \href{http://www.abep.org}
-\textsuperscript{e} Medicines prescribed by the physician.
+Available from: \href{http://www.abep.org}\textsuperscript{e} Medicines prescribed by the physician.
 
 \end{tablenotes}
 \end{threeparttable}

@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1515338246 "MODELO.xdv" "MODELO.pdf" "MODELO" 1515338247
-  "MODELO.xdv" 1515338246 357508 df20f209ee1e8fea4ab30300c8d255e6 "xelatex"
+["xdvipdfmx"] 1515339835 "MODELO.xdv" "MODELO.pdf" "MODELO" 1515339835
+  "MODELO.xdv" 1515339834 357508 f216d5d86497157dd92cd5cd9e7d5cb5 "xelatex"
   (generated)
   "MODELO.pdf"
-["xelatex"] 1515338238 "MODELO.tex" "MODELO.xdv" "MODELO" 1515338247
+["xelatex"] 1515339828 "MODELO.tex" "MODELO.xdv" "MODELO" 1515339835
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1510396394 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1510396407 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texmf-dist/fonts/tfm/public/ccicons/ccicons.tfm" 1510397538 212 9ba32d0dbe59209199f2056a1c7d2880 ""
@@ -193,17 +193,17 @@
   "0034-8910-rsp-47-04-0791-g1.jpg" 1510834461 1576 2e1b08f95d779721b85025d84d58207c ""
   "0034-8910-rsp-47-04-0791-gf01.jpg" 1510834461 512440 328578a449b8ebe384eb0e282be0f00a ""
   "0034-8910-rsp-48-3-0451-ee01.jpg" 1510834461 33879 2050c823954f634d2c3527eeb58d3943 ""
-  "MODELO.aux" 1515338246 3153 c4abf5782c0ab17fb09470f5024d17a1 ""
-  "MODELO.out" 1515338246 1079 381e901279ba547a0cf1acc8ae75d841 ""
-  "MODELO.tex" 1515338230 40788 e6cebe9015d9b242805be169b175b56d ""
-  "MODELO.toc" 1515338246 589 a32eb585de3b883c2bde47e997fcd89c ""
+  "MODELO.aux" 1515339834 3153 c4abf5782c0ab17fb09470f5024d17a1 ""
+  "MODELO.out" 1515339834 1079 381e901279ba547a0cf1acc8ae75d841 ""
+  "MODELO.tex" 1515339811 39271 17a8f44cb9c6cd0426c30bfbaac2e64e ""
+  "MODELO.toc" 1515339834 589 a32eb585de3b883c2bde47e997fcd89c ""
   "logo.png" 1510834461 12988 1c9cbe730563243214f13e22d247df0c ""
-  "metadata.tex" 1515330716 1914 e05a2c8cae51573ba6e4ed3e2cf5921a ""
+  "metadata.tex" 1515339793 1914 e05a2c8cae51573ba6e4ed3e2cf5921a ""
   "penalidades.sty" 1512732551 5285 18e80aeaf88f978c2e3015ab1691a5e2 ""
-  "scielo.sty" 1515330406 3958 24bdb3bd5af8f0a6288260edebb2101e ""
+  "scielo.sty" 1515339461 4169 6189361c70e6d7d460d8b1235e8ad921 ""
   (generated)
-  "MODELO.toc"
-  "MODELO.log"
   "MODELO.out"
-  "MODELO.xdv"
+  "MODELO.log"
   "MODELO.aux"
+  "MODELO.xdv"
+  "MODELO.toc"
