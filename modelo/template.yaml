@@ -388,9 +388,17 @@ fn-group//fn:
     head: |
        
        %%% Nota @@lua(return attr 'id')@@ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-       \newcounter{@@lua(
-            if attr('id') == '' then return "Title" end return attr 'id')@@}
-       \expandafter\newcommand\csname @@lua(return attr 'id')@@\endcsname{@@lua(return find ('//p'))@@}
+       @@lua(
+            if attr('id') == '' then 
+
+              return "\\newcommand{\\footnoteInTitle}{" .. find ('//p') .. "}"
+
+            end 
+
+              return "\\newcounter{" .. attr 'id' .. "}" ..
+              "\\expandafter\\newcommand\\csname " .. attr 'id' .. 
+              "\\endcsname{" .. find ('//p') .. "}"
+        )@@
 
 name:   "@@lua(
    s = find '//surname'

@@ -333,6 +333,7 @@ INPUT MODELO.out
 INPUT MODELO.out
 OUTPUT MODELO.out
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT MODELO.toc

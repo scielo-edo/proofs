@@ -107,17 +107,20 @@
     \newcommand{\transsubtitlestyle}[1]{-- \Large\emph{ #1}}
 
     \newcommand{\titlegroup}{
+        \ifdef{\footnoteInTitle}{\footnote{\footnoteInTitle}}{}
         \ifdef{\subtitle}{\subtitlestyle{\subtitle}}{}
         \ifdef{\transtitleen}{\transtitlestyle{\transtitleen}}{}
         \ifdef{\transtitlees}{\transtitlestyle{\transtitlees}}{}
         \ifdef{\transtitlefr}{\transtitlestyle{\transtitlefr}}{}
         \ifdef{\transtitlept}{\transtitlestyle{\transtitlept}}{}
         \ifdef{\transsubtitle}{\transsubtitlestyle{\transsubtitle}}{}
+        % Nota
+        % \ifdef{\footnoteInTitle}{\protect\footnote{\footnoteInTitle}}{}
         }
 
 % footnotetest
   \newcommand{\footnotetest}[1]{%
   \ifthenelse{\value{#1}=0}%
     {\footnote{\csname #1\endcsname \label{ftn:#1}}}%
-    {\footnote{Ver nota \ref{ftn:#1} (p.\pageref{ftn:#1}).}}
+    {\footnote{ Ver nota \ref{ftn:#1} (p.\pageref{ftn:#1}).}}
   \stepcounter{#1}}
