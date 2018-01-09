@@ -1,6 +1,6 @@
 article[@xml:lang="pt"]:
    head: |
-      % template.yaml 2.1.3.3 (comentários da Francine)
+      % template.yaml 2.1.4.1 (Francine: cidade e estado na afiliação)
       \documentclass{article}
       \usepackage{scielo}
 
@@ -423,6 +423,8 @@ aff:
          return find('//institution[@content-type="orgdiv2"]') 
          .. ', ' .. find('//institution[@content-type="orgdiv1"]') 
          .. ', ' .. find('//institution[@content-type="orgname"]')
+         .. ', ' .. find('//named-content[@content-type="city"]')
+         .. ', ' .. find('//named-content[@content-type="state"]')
       )@@}
 
 break: "\n"
