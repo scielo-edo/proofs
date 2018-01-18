@@ -1,6 +1,6 @@
 article[@xml:lang="pt"]:
    head: |
-      % template.yaml 2.1.4.1 (Francine: cidade e estado na afiliação)
+      % template.yaml 2.1.4.3 (Francine: país em afiliação + accepted)
       \documentclass{article}
       \usepackage{scielo}
 
@@ -258,8 +258,8 @@ history:
             .. '-' .. find '//date[@date-type="received"]/year'
             .. '}')@@
       @@lua(return '\\newcommand{\\dateaccepted}{' .. find '//date[@date-type="accepted"]/day' 
-            .. '-' .. find '//date[@date-type="received"]/month'
-            .. '-' .. find '//date[@date-type="received"]/year'
+            .. '-' .. find '//date[@date-type="accepted"]/month'
+            .. '-' .. find '//date[@date-type="accepted"]/year'
             .. '}')@@
 
 pub-date: 
@@ -425,6 +425,7 @@ aff:
          .. ', ' .. find('//institution[@content-type="orgname"]')
          .. ', ' .. find('//named-content[@content-type="city"]')
          .. ', ' .. find('//named-content[@content-type="state"]')
+         .. ', ' .. find('//country')
       )@@}
 
 break: "\n"
